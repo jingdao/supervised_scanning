@@ -1,0 +1,4 @@
+**/.*.swp
+data/*.npy
+data/*.h5
+**/*.pyc
