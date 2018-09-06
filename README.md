@@ -43,3 +43,10 @@ The numerical results in the paper may be reproduced by running the following co
 Result statistics may be computed by running `python compute_stats.py`. Note that
 the best_policy count is not the same as the paper because the CNN results and
 the results prior to fine-tuning are not included in the comparison.
+
+Screenshots
+-----
+
+![screenshot1](results/screenshot1.png?raw=true)
+
+![screenshot2](results/screenshot2.png?raw=true)
